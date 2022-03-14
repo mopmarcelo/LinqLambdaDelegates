@@ -1,0 +1,14 @@
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.exe
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.deps.json
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.runtimeconfig.json
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.runtimeconfig.dev.json
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.dll
+C:\study\LinkLambdaStudies\bin\Debug\netcoreapp3.1\LinkLambdaStudies.pdb
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.csproj.AssemblyReference.cache
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.AssemblyInfoInputs.cache
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.AssemblyInfo.cs
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.csproj.CoreCompileInputs.cache
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.dll
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.pdb
+C:\study\LinkLambdaStudies\obj\Debug\netcoreapp3.1\LinkLambdaStudies.genruntimeconfig.cache
